@@ -1,6 +1,6 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+A GitHub App built with [probot](https://github.com/probot/probot), purpose yet to be defined.
 
 ## What it does
 
